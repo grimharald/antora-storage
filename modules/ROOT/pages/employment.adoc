@@ -1,8 +1,8 @@
 = Work Experience
 
-== 2021-2023 Technical Writer
+== 2021-2023 Technical Writer - Tern Systems
 
-image:map.png[,20,20] _Tern Systems, Kopavogur, Iceland_
+image:map.png[,20,20] _Kopavogur, Iceland_
 
 - Authored, reviewed, and edited technical documentation on all Tern Pojects.
 
@@ -14,9 +14,9 @@ image:map.png[,20,20] _Tern Systems, Kopavogur, Iceland_
 
 - Learned Asciidoc, Markdown, LaTeX, and DITA-XML for the role.
 
-== 2019-2021 DPM Technician
+== 2019-2021 DPM Technician - Alvotech
 
-image:map.png[,20,20] _Alvotech, Reyjavik, Iceland_
+image:map.png[,20,20] _Reyjavik, Iceland_
 
 - Carried out general clinical manufacturing duties in a Pharmaceutical GMP enivronment.
 
@@ -24,9 +24,9 @@ image:map.png[,20,20] _Alvotech, Reyjavik, Iceland_
 
 - Updated process documentation, including SOPs.
 
-== 2017-2019 Process Engineer
+== 2017-2019 Process Engineer - Omega Algae
 
-image:map.png[,20,20] _Omega Algae, Reyjavik, Iceland_
+image:map.png[,20,20] _Reyjavik, Iceland_
 
 - Planned and built plumbing solutions for the algae reactor systems.
 
