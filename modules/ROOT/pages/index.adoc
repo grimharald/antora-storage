@@ -1,0 +1,15 @@
+:imagesdir: ../images
+
+= Huw Coverdale Jones: Technical Writer
+Huw Coverdale Jones
+
+image:huw.jpeg[]
+
+== Contact Details
+- image:mail.png[,20,20] Huwcoverdalejones@gmail.com 
+
+- image:map.png[,20,20] Seltjarnarnes, Iceland 
+
+- image:phone.png[,20,20] + 354 784-1195 
+
+- image:linkedin.png[,20,20] https://www.linkedin.com/in/huw-jones-9541b147/[huw-jones-9541b147] 
