@@ -1,2 +1,4 @@
 * xref:index.adoc[]
 * xref:tech-skills.adoc[]
+* xref:employment.adoc[]
+* xref:education.adoc[]

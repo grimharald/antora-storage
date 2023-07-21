@@ -1,0 +1,37 @@
+= Work Experience
+
+== 2021-2023 Technical Writer
+
+image:map.png[,20,20] _Tern Systems, Kopavogur, Iceland_
+
+- Authored, reviewed, and edited technical documentation on all Tern Pojects.
+
+- Spearheaded conversion process documents to create a cohesive pdf output.
+
+- Created documentation templates for all documents.
+
+- Oversaw documents in Office tools, specifically Google Docs, and code formats, primarily Asciidoc.
+
+- Learned Asciidoc, Markdown, LaTeX, and DITA-XML for the role.
+
+== 2019-2021 DPM Technician
+
+image:map.png[,20,20] _Alvotech, Reyjavik, Iceland_
+
+- Carried out general clinical manufacturing duties in a Pharmaceutical GMP enivronment.
+
+- Developed technical knowledge of clinical manufacturing tools, including Autoclave and VHP Chamber.
+
+- Updated process documentation, including SOPs.
+
+== 2017-2019 Process Engineer
+
+image:map.png[,20,20] _Omega Algae, Reyjavik, Iceland_
+
+- Planned and built plumbing solutions for the algae reactor systems.
+
+- Monitored, maintained, and repaired of electrical systems, sensors, and pumps.
+
+- Wrote and updated technical documentation, both SOPs, and experimental data reports.
+
+- Used and maintained centrifuge, with focus on cleaning, repair, and diagnostics.
