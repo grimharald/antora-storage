@@ -5,6 +5,17 @@ Huw Coverdale Jones
 
 image:huw.jpeg[]
 
+== Profile
+
+image:map.png[,20,20] British/Irish Citizen - Can work in EU and UK Legally.
+
+image:map.png[,20,20] Well Travelled - Lived in Taiwan, Korea, and China.
+
+image:mic.png[,20,20] Stand Up Comedian - Performed and Written comedy since 2012
+
+image:Gym.png[,20,20] Exercise - Regularly lift free weights and do yoga.
+
+
 == Contact Details
 - image:mail.png[,20,20] Huwcoverdalejones@gmail.com 
 
