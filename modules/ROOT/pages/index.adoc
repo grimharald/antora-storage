@@ -4,7 +4,7 @@
 
 == Huw Coverdale Jones: Technical Writer
 
-image:huw.jpeg[]
+image:huw.jpeg[scale=0.25]
 
 == Background 
 image:map.png[,20,20] British/Irish Citizen - Can work in EU and UK Legally.
