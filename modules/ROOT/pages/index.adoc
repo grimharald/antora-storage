@@ -2,11 +2,13 @@
 
 = Profile
 
-== Huw Coverdale Jones: Technical Writer
+[cols=",", grid=none,frame=none]
+|===
+a| == Huw Coverdale Jones: Technical Writer
 
 image:huw.jpeg[,300,300]
 
-== Background 
+a| == Background 
 image:map.png[,20,20] British/Irish Citizen - Can work in EU and UK Legally.
 
 image:map.png[,20,20] Well Travelled - Lived in Taiwan, Korea, and China.
@@ -15,7 +17,7 @@ image:mic.png[,20,20] Stand Up Comedian - Performed and Written comedy since 201
 
 image:Gym.png[,20,20] Exercise - Regularly lift free weights and do yoga.
 
-== Languages
+a| == Languages
 
 image:England.png[,20,20] English - Native Language
 
@@ -25,7 +27,7 @@ image:china.png[,20,20] Chinese - Professional Conversational Fluency
 
 image:iceland.jpg[,20,20] Icelandic - Passed Citizenship Test
 
-== Contact Details
+a| == Contact Details
 - image:mail.png[,20,20] Huwcoverdalejones@gmail.com 
 
 - image:map.png[,20,20] Seltjarnarnes, Iceland 
@@ -33,3 +35,4 @@ image:iceland.jpg[,20,20] Icelandic - Passed Citizenship Test
 - image:phone.png[,20,20] + 354 784-1195 
 
 - image:linkedin.png[,20,20] https://www.linkedin.com/in/huw-jones-9541b147/[huw-jones-9541b147] 
+|===
