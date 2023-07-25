@@ -4,7 +4,7 @@
 
 [cols=",", grid=none,frame=none]
 |===
-a| == Huw Coverdale Jones: Technical Writer
+a| == Huw C Jones; Technical Writer
 
 image:huw.jpeg[,300,300]
 
