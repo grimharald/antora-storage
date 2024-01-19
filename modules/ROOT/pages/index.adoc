@@ -21,7 +21,7 @@ a| == Languages
 
 image:England.png[,20,20] English - Native Language
 
-image:southk.jpg[,20,20] Korean - Professional Conversational Fluency
+image:southk.png[,20,20] Korean - Professional Conversational Fluency
 
 image:china.png[,20,20] Chinese - Professional Conversational Fluency
 
